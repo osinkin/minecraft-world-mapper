@@ -16,7 +16,8 @@ Supports both the **Overworld** and the **Nether**, with optional height-based s
 
 ## Screenshots
 
-> Add your screenshots here — surface map, nether slice, underground cross-section.
+![overlord](screenshots/map.png)
+![nether](screenshots/underworld64.png)
 
 ## Requirements
 
