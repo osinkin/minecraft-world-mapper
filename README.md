@@ -16,8 +16,8 @@ Supports both the **Overworld** and the **Nether**, with optional height-based s
 
 ## Screenshots
 
-![overlord](screenshots/map.png){width=300}
-![nether](screenshots/underworld64.png){width=300}
+<img src="screenshots/map.png" alt="overlord map" style="height:300px;">
+<img src="screenshots/underworld64.png" alt="nether map" style="height:300px;">
 
 ## Requirements
 
