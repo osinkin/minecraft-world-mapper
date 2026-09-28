@@ -107,6 +107,10 @@ BLOCK_COLORS[<block_id>] = (R, G, B)
 
 You can find block IDs in the [Minecraft Wiki](https://minecraft.wiki/w/Java_Edition_data_values/Pre-flattening) (pre-flattening values for 1.12).
 
+### AI-Assisted development
+
+This project was generated with the assistance of Alice AI. The code, documentation, and design ideas were created using Alice AI tools to help structure the solution and speed up development. While the AI provided a solid foundation, all content has been reviewed and refined by a human developer to ensure correctness, maintainability, and adherence to best practices. Feel free to contribute, report issues, or suggest improvements — we’d love to hear your feedback!
+
 ## License
 
 [MIT](LICENSE)
